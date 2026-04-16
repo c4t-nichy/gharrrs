@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Currículo Dinâmico</title>
+    <title>Meu Currículo</title>
     <style>
         :root {
             --primary: #2d3436;
@@ -78,7 +78,7 @@
 
     <div class="container">
         <header>
-            <h1>Seu Nome Aqui</h1>
+            <h1>Nicolly Sovenil</h1>
             <p class="subtitle">Desenvolvedor Python & Entusiasta de Design Visual</p>
         </header>
 
