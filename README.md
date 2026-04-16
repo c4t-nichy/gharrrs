@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Currículo</title>
+    <title>Meu Currículo Dinâmico</title>
     <style>
         :root {
             --primary: #2d3436;
